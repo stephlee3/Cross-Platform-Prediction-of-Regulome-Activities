@@ -1,7 +1,7 @@
 # Prediction Result and Model Evaluation
 We use C++ to implement this part ,since it is more computational efficienct than R code. 
 
-- pred.cpp
+## pred.cpp
 
 This file is to calculate the prediction result.
 
@@ -10,7 +10,7 @@ Input: selected predcitors, coefficient of the regression model
 Output: predicted DH value
 
 
-- corr.cpp
+## corr.cpp
 
 This file is to evaluate the prediction performance.  
 
