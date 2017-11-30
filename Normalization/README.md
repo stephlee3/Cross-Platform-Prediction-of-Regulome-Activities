@@ -1,4 +1,4 @@
-We compared four different normalization methods.
+We introduced four different normalization methods.
 
 * all-sample 
 * neighboring-sample
